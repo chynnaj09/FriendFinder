@@ -1,2 +1,6 @@
 // Export to API Route
-module.exports = friendsData;
+var friendsList = [
+
+];
+
+module.exports = friendsList;
